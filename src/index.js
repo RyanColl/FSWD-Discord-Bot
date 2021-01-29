@@ -1,7 +1,7 @@
 const { User } = require('discord.io');
 const { ClientUser } = require('discord.js');
 const Discord = require('discord.js');
-const config = require('./config.json');
+const config = require('../config.json');
 const client = new Discord.Client();
 const fs = require('fs');
 const dir = __dirname;
