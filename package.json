@@ -1,0 +1,13 @@
+{
+  "name": "FSWD HW Bot",
+  "version": "1.0.0",
+  "description": "A HW bot for FSWD students",
+  "main": "bot.js",
+  "author": "Ryan Collicutt",
+  "dependencies": {
+    "discord-akairo": "^8.1.0",
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.5.1",
+    "winston": "^3.3.3"
+  }
+}
